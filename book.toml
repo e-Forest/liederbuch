@@ -2,3 +2,6 @@
 title = "Liederbuch"
 authors = ["e-Forest"]
 language = "en"
+
+[build]
+build-dir = "public"
